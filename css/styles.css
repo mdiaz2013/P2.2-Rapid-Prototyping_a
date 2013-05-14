@@ -1,0 +1,14 @@
+.span12{
+	float: right;
+	margin-top: 40px;
+}
+
+.icon-chevron-down {
+	float: right;
+	margin-top: 30px;
+	margin-right: 539px;
+}	
+
+.accordion-group	{
+	border: none;
+}
